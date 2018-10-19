@@ -194,4 +194,5 @@ You can also set a minimum and maximum width, which let's you experiments with d
 - [CSS3 Media Queries](https://guide.freecodecamp.org/css/css3-media-queries)
 - [Defining Breakpoints](https://responsivedesign.is/strategy/page-layout/defining-breakpoints/)
 - [CSS-Tricks:@media queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+- [A List Apart: Designing For Breakpoints](https://alistapart.com/article/designing-for-breakpoints)
 - [w3schools:Typical Device Breakpoints](https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp)
